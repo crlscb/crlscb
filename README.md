@@ -13,39 +13,24 @@ $ whoami
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%">
 
-### [push_swap](https://github.com/crlscb/push_swap)
-Sorting algorithm project using two stacks in C
+<p align="center">
+  <a href="https://github.com/crlscb/push_swap">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=push_swap&theme=nord&hide_border=true&show_icons=false" />
+  </a>
 
-</td>
+  <a href="https://github.com/crlscb/libft">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=libft&theme=nord&hide_border=true&show_icons=false" />
+  </a>
 
-<td width="50%">
+  <a href="https://github.com/crlscb/get_next_line">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=get_next_line&theme=nord&hide_border=true&show_icons=false" />
+  </a>
 
-### [libft](https://github.com/crlscb/libft)
-Custom implementation of standard C library functions
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [get_next_line](https://github.com/crlscb/get_next_line)
-Function to read lines from a file descriptor in C
-
-</td>
-
-<td width="50%">
-
-### [printf](https://github.com/crlscb/printf)
-Reimplementation of the printf function in C
-
-</td>
-</tr>
-</table>
+  <a href="https://github.com/crlscb/printf">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=printf&theme=nord&hide_border=true&show_icons=false" />
+  </a>
+</p>
 
 ## Featured Work
 
@@ -60,5 +45,7 @@ Minimal fashion showroom website focused on clean design and user experience.
   </a>
 </p>
 
+## Activity
 
+[![Carla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crlscb&theme=github-compact&hide_border=true)](https://github.com/crlscb)
 ![](https://komarev.com/ghpvc/?username=crlscb&label=views&color=0e75b6&style=flat)
