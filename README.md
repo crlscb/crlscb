@@ -29,9 +29,14 @@ $ whoami
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=printf&theme=transparent&v=3" />
 </a>
 
+## featured work
+
+🌐 https://www.espaciogen.es/es/
+
+Fashion showroom website focused on minimal design and user experience.
+
 ## connect
 
-<p align="left">
   <a href="https://www.linkedin.com/in/carla-escobio-bautista-9bb745225/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
