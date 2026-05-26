@@ -11,29 +11,47 @@ $ whoami
   <img src="https://skillicons.dev/icons?i=c,python,js,linux,git,bash,vim,vscode" />
 </p>
 
-## projects
+## Projects
 
-<a href="https://github.com/crlscb/push_swap">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=push_swap&theme=transparent&v=2" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/crlscb/libft">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=libft&theme=transparent&v=2" />
-</a>
+### [push_swap](https://github.com/crlscb/push_swap)
+Sorting algorithm project using two stacks in C
 
-<a href="https://github.com/crlscb/get_next_line">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=get_next_line&theme=transparent&v=2" />
-</a>
+</td>
 
-<a href="https://github.com/crlscb/printf">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=printf&theme=transparent&v=3" />
-</a>
+<td width="50%">
 
-## featured work
+### [libft](https://github.com/crlscb/libft)
+Custom implementation of standard C library functions
 
-🌐 https://www.espaciogen.es/es/
+</td>
+</tr>
 
-Fashion showroom website focused on minimal design and user experience.
+<tr>
+<td width="50%">
+
+### [get_next_line](https://github.com/crlscb/get_next_line)
+Function to read lines from a file descriptor in C
+
+</td>
+
+<td width="50%">
+
+### [printf](https://github.com/crlscb/printf)
+Reimplementation of the printf function in C
+
+</td>
+</tr>
+</table>
+
+## Featured Work
+
+[espaciogen.es](https://www.espaciogen.es/es/)
+
+Minimal fashion showroom website focused on clean design and user experience.
 
 ## connect
 
