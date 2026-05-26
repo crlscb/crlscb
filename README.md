@@ -14,15 +14,19 @@ $ whoami
 ## projects
 
 <a href="https://github.com/crlscb/push_swap">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=push_swap&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=push_swap&theme=transparent&v=2" />
 </a>
 
 <a href="https://github.com/crlscb/libft">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=libft&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=libft&theme=transparent&v=2" />
 </a>
 
 <a href="https://github.com/crlscb/get_next_line">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=get_next_line&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=get_next_line&theme=transparent&v=2" />
+</a>
+
+<a href="https://github.com/crlscb/printf">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=printf&theme=transparent&v=3" />
 </a>
 
 ## connect
