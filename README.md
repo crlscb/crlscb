@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Carla :)
 
-<!--
-**crlscb/crlscb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+> student @ 42 Madrid
+```
 
-Here are some ideas to get you started:
+## stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,js,linux,git,bash,vim,vscode" />
+</p>
+
+## projects
+
+<a href="https://github.com/crlscb/push_swap">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=push_swap&theme=transparent" />
+</a>
+
+<a href="https://github.com/crlscb/libft">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=libft&theme=transparent" />
+</a>
+
+<a href="https://github.com/crlscb/get_next_line">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=crlscb&repo=get_next_line&theme=transparent" />
+</a>
+
+## connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/carla-escobio-bautista-9bb745225/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
+![](https://komarev.com/ghpvc/?username=crlscb&label=views&color=0e75b6&style=flat)
